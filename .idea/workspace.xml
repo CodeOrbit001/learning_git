@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17cc4441-0b18-4378-ae8c-74add2621cc3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
-    </list>
+    <list default="true" id="17cc4441-0b18-4378-ae8c-74add2621cc3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Reverting in dev-riya",
+    "git-widget-placeholder": "dev-riya",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
